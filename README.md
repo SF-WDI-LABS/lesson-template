@@ -1,6 +1,7 @@
 <!--
-Creator: <Name>
-Market: SF
+Creator: 
+Last used by:
+Location: 
 -->
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
@@ -45,14 +46,14 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum fugiat autem vol
 // code here
 ```
 
-###Illustration
+### Illustration
 <figure>
   <img src="http://www.computerhope.com/jargon/d/dom1.jpg" alt="DOM Tree">
   <br>
   <figcaption>Descriptive caption</figcaption>
 </figure>
 
-###Check for Understanding
+### Check for Understanding
 
 <details>
   <summary>Thought provoking question</summary>
